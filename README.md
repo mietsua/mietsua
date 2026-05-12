@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mietsua (ミエツア)
 
-<!--
-**mietsua/mietsua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VTube Studio プラグイン専門ブランド。**
 
-Here are some ideas to get you started:
+配信中の「ちょっとした不自然」を技術で整える、買い切りツールを作っています。
+すべてローカル動作・買い切り・日本製。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 第 1 弾製品
+
+**表情自動補正プラグイン** (2026 年夏予定)
+
+トラッキング限界による「目の半開き」「死んだ魚の目」を自動検出して補正します。
+
+## Links
+
+- 🌐 Website: [mietsua.com](https://mietsua.com) (準備中)
+- 🦋 Bluesky: [@mietsua.bsky.social](https://bsky.app/profile/mietsua.bsky.social) (準備中)
+- 🐦 X: [@mietsua](https://x.com/mietsua) (準備中)
+- 🛒 BOOTH: 準備中
+
+---
+
+VTube Studio plugins that polish the little imperfections of live streaming.
+Local, buy-once, made in Japan.
